@@ -5,7 +5,6 @@ This simple demo can pick up the photo from the album and add it to the TableVie
 
 ![image](https://github.com/Kimsswift/ImagePickerDemo/blob/master/ImagePickerDemo/g1.gif)
 
-代码:
 
     //用户在相册中，选择图后调用该方法
     func imagePickerController(_ picker: UIImagePickerController, didFinishPickingMediaWithInfo info: [UIImagePickerController.InfoKey : Any]) {
